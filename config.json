@@ -1,10 +1,23 @@
 {
     "en":{
         "greeting": "hello, world!",
-        "ferewell": "Goodbyle!"
+        "farewell": "Goodbyle!"
     },
         "pt":{
             "greeting": "Olá, mundo!",
-            "farewll": "Adeus!"
+            "farewell": "Adeus!"
+        },
+        "es":{
+            "greeting": "Hola, mundo!",
+            "farewell":"Adiós!"
+    },
+        "gr":{
+            "greeting": "Γεια σου Κόσμο!",
+            "farewell": "Αντίο!"
+        },
+        "kb":{
+            "greeting": "Joto Swngchar!"
+            "farewell": "thangkha!"
         }
+            
     }
