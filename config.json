@@ -1,0 +1,10 @@
+{
+    "en":{
+        "greeting": "hello, world!",
+        "ferewell": "Goodbyle!"
+    },
+        "pt":{
+            "greeting": "Olá, mundo!",
+            "farewll": "Adeus!"
+        }
+    }
